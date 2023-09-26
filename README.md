@@ -5,12 +5,12 @@ Welcome to my internship tasks repository, where I've completed a series of simp
 ## Task 1: Number Guessing Game
 In this task, I created a program that generates a random number and asks the user to guess it. The program provides feedback on whether the guess is too high or too low until the user guesses the correct number.
 
-[Task 1 Repository]([Link-to-Task-1-Repo](https://github.com/reyad-7/CPP-internship-with-CodSoft/tree/main/TASK%201(%20NUMBER%20GUESSING%20GAME)))
+[Task 1 Repository](https://github.com/reyad-7/CPP-internship-with-CodSoft/tree/main/TASK%201(%20NUMBER%20GUESSING%20GAME))
 
 ## Task 2: Simple Calculator
 I developed a calculator program that performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The program allows the user to input two numbers and choose an operation to perform.
 
-[Task 2 Repository]([Link-to-Task-2-Repo](https://github.com/reyad-7/CPP-internship-with-CodSoft/tree/main/TASK%202%20(SIMPLE%20CALCULATOR)))
+[Task 2 Repository](https://github.com/reyad-7/CPP-internship-with-CodSoft/tree/main/TASK%202%20(SIMPLE%20CALCULATOR))
 
 ## Task 3: Tic-Tac-Toe Game
 For this task, I built a simple console-based Tic-Tac-Toe game that allows two players to play against each other. The game features:
